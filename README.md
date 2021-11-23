@@ -1,5 +1,6 @@
 # whatsapp-automation
 send automated messages in whatsapp 
+
 source: 
 1. https://medium.com/analytics-vidhya/simple-whatsapp-automation-using-python3-and-selenium-77dad606284b
 2. https://towardsdatascience.com/automate-whatsapp-messages-with-python-6c1d71444ffa
