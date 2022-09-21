@@ -10,4 +10,4 @@ thank you!! :)
 
 problem needed to be fixed:
 1. still need press enter after scanning QR code
-2. recognize the typing and send button by css class only now
+2. can only recognize the typing and send button by css class now
